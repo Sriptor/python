@@ -1,2 +1,2 @@
 # python
-A python language
+For python language open python.py
