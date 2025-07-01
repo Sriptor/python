@@ -1,2 +1,2 @@
 # python
-A python lang
+A python language
